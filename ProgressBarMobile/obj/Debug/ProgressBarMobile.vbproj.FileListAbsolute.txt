@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\bin\Debug\ProgressBarMobile.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\bin\Debug\ProgressBarMobile.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\bin\Debug\ProgressBarMobile.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\SmartDeviceProject1.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\ProgressBarMobile.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\ProgressBarMobile.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\ProgressBarMobile.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\ProgressBarMobile.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\ProgressBarMobile\ProgressBarMobile\obj\Debug\SmartDeviceProject1.frmPrg.resources
